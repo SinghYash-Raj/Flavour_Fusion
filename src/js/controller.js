@@ -5,6 +5,7 @@ import icons from 'url:../img/icons.svg';
 import SearchView from './views/SearchView.js';
 import ResultView from './views/ResultView.js';
 import PaginationView from './views/PaginationView.js';
+import BookMarksView from './views/BookMarksView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
@@ -26,6 +27,7 @@ const showRecipe = async function () {
     // update results view to mark selected search result
 
     ResultView.update(model.getSearchReasultPage());
+    BookMarksView.update(model.state.bookmarks);
     //1. Loading Recipe
 
     await model.loadRecipe(id);
@@ -78,12 +80,17 @@ const controlServings = function (newServing) {
 };
 
 const controlAddBookmark = function () {
+  //Add or remove bookmark
   if (!model.state.recipe.bookmarked) {
     model.addBookmark(model.state.recipe);
   } else {
     model.deleteBookmark(model.state.recipe.id);
   }
+  // Update recipe
   RecipeView.update(model.state.recipe);
+
+  // Render bookmarks
+  BookMarksView.render(model.state.bookmarks);
 };
 const init = function () {
   RecipeView.addHandlerRender(showRecipe);
@@ -94,4 +101,3 @@ const init = function () {
 };
 init();
 //window.addEventListener('hashchange', showRecipe);
-const hh = [12, 23, 45];
