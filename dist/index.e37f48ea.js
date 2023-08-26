@@ -650,7 +650,11 @@ const controlAddBookmark = function() {
     // Render bookmarks
     (0, _bookMarksViewJsDefault.default).render(_modelJs.state.bookmarks);
 };
+const controlBookmarks = function() {
+    (0, _bookMarksViewJsDefault.default).render(_modelJs.state.bookmarks);
+};
 const init = function() {
+    (0, _bookMarksViewJsDefault.default).addHandlerRender(controlBookmarks);
     (0, _recipeViewJsDefault.default).addHandlerRender(showRecipe);
     (0, _recipeViewJsDefault.default).addHandlerUpdateServings(controlServings);
     (0, _recipeViewJsDefault.default).addHandlerAddBookmark(controlAddBookmark);
@@ -2639,11 +2643,15 @@ const UpdateServings = function(newServing) {
     // updating servings
     state.recipe.servings = newServing;
 };
+const persitBookmark = function() {
+    localStorage.setItem("bookmarks", JSON.stringify(state.bookmarks));
+};
 const addBookmark = function(recipe) {
     //Add Bookmark
     state.bookmarks.push(recipe);
     //Mark current recipe  as  bookmark
     if (recipe.id === state.recipe.id) state.recipe.bookmarked = true;
+    persitBookmark();
 };
 const deleteBookmark = function(id) {
     //Delete bookmark
@@ -2651,7 +2659,17 @@ const deleteBookmark = function(id) {
     state.bookmarks.splice(index, 1);
     //Mark current recipe as not bookmarked
     if (id === state.recipe.id) state.recipe.bookmarked = false;
+    persitBookmark();
 };
+const init = function() {
+    const storage = localStorage.getItem("bookmarks");
+    if (storage) state.bookmarks = JSON.parse(storage);
+};
+init();
+const clearBookmarks = function() {
+    localStorage.clear("bookmarks");
+};
+clearBookmarks();
 
 },{"regenerator-runtime":"dXNgZ","./config":"k5Hzs","./helper":"lVRAz","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"k5Hzs":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
@@ -3340,6 +3358,9 @@ class BookMarksView extends (0, _viewDefault.default) {
     _parentElement = document.querySelector(".bookmarks__list");
     _errorMessage = "No Bookmarks yet. Find a nice recipe and bookmark it:)";
     _Message = "";
+    addHandlerRender(handler) {
+        window.addEventListener("load", handler);
+    }
     _generateMarkup() {
         return this._data.map((bookmark)=>(0, _previewViewDefault.default).render(bookmark, false)).join("");
     }
