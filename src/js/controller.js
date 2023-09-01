@@ -1,14 +1,17 @@
 import { async } from 'regenerator-runtime';
 import * as model from './model.js';
+import { MODAL_CLOSE_SEC } from './config.js';
 import RecipeView from './views/RecipeView.js';
 import icons from 'url:../img/icons.svg';
 import SearchView from './views/SearchView.js';
 import ResultView from './views/ResultView.js';
 import PaginationView from './views/PaginationView.js';
 import BookMarksView from './views/BookMarksView.js';
+import addRecipeView from './views/addRecipeView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import addRecipeView from './views/addRecipeView.js';
 //const recipeContainer = document.querySelector('.recipe');
 
 // https://forkify-api.herokuapp.com/v2
@@ -95,6 +98,37 @@ const controlAddBookmark = function () {
 const controlBookmarks = function () {
   BookMarksView.render(model.state.bookmarks);
 };
+
+const controlAddRecipe = async function (newRecipe) {
+  try {
+    //Show loading spinner
+    addRecipeView.renderSpinner();
+    ///Upload the new recipe data
+    await model.UploadRecipe(newRecipe);
+    console.log(model.state.recipe);
+
+    //Render recipe
+    RecipeView.render(model.state.recipe);
+
+    // Success message
+    addRecipeView.renderSuccessMessage();
+
+    //Render bookmark view
+    BookMarksView.render(model.state.bookmarks);
+
+    //Change ID in url(hash change)
+    window.history.pushState(null, '', `#${model.state.recipe.id}`);
+
+    //Close form window
+    setTimeout(function () {
+      //addRecipeView.toggleWindow();
+    }, MODAL_CLOSE_SEC * 1000);
+  } catch (err) {
+    console.error(err);
+    addRecipeView.renderError(err.message);
+  }
+};
+
 const init = function () {
   BookMarksView.addHandlerRender(controlBookmarks);
   RecipeView.addHandlerRender(showRecipe);
@@ -102,6 +136,7 @@ const init = function () {
   RecipeView.addHandlerAddBookmark(controlAddBookmark);
   SearchView.addHandlerSearch(ControlSearchResult);
   PaginationView.addHandlerClick(controlPagination);
+  addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
 //window.addEventListener('hashchange', showRecipe);
