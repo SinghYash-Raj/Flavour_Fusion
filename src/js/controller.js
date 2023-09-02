@@ -129,6 +129,10 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
+const WelcomeMessage = function () {
+  console.log('Welcome to the application');
+};
+
 const init = function () {
   BookMarksView.addHandlerRender(controlBookmarks);
   RecipeView.addHandlerRender(showRecipe);
@@ -137,6 +141,7 @@ const init = function () {
   SearchView.addHandlerSearch(ControlSearchResult);
   PaginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
+  WelcomeMessage();
 };
 init();
 //window.addEventListener('hashchange', showRecipe);
