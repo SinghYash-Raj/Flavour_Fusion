@@ -37,7 +37,6 @@ export const loadRecipe = async function (id) {
     } else {
       state.recipe.bookmarked = false;
     }
-    console.log(state.recipe);
   } catch (err) {
     console.error(`${err}`);
     throw err;
@@ -48,7 +47,7 @@ export const LoadSearchRecipe = async function (query) {
   try {
     state.search.query = query;
     const data = await AJAX(`${API_URL}?search=${query}&key=${API_KEY}`); // by adding ?key=${API_KEY} it will show my own uploaded recipe in search view
-    console.log(data);
+    //console.log(data);
     state.search.results = data.data.recipes.map(rec => {
       return {
         id: rec.id,

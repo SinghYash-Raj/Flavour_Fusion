@@ -662,7 +662,7 @@ const controlAddRecipe = async function(newRecipe) {
         (0, _addRecipeViewJsDefault.default).renderSpinner();
         ///Upload the new recipe data
         await _modelJs.UploadRecipe(newRecipe);
-        console.log(_modelJs.state.recipe);
+        //console.log(model.state.recipe);
         //Render recipe
         (0, _recipeViewJsDefault.default).render(_modelJs.state.recipe);
         // Success message
@@ -2640,7 +2640,6 @@ const loadRecipe = async function(id) {
         state.recipe = createRecipeObject(data);
         if (state.bookmarks.some((bookmark)=>bookmark.id === id)) state.recipe.bookmarked = true;
         else state.recipe.bookmarked = false;
-        console.log(state.recipe);
     } catch (err) {
         console.error(`${err}`);
         throw err;
@@ -2650,7 +2649,7 @@ const LoadSearchRecipe = async function(query) {
     try {
         state.search.query = query;
         const data = await (0, _helper.AJAX)(`${(0, _config.API_URL)}?search=${query}&key=${(0, _config.API_KEY)}`); // by adding ?key=${API_KEY} it will show my own uploaded recipe in search view
-        console.log(data);
+        //console.log(data);
         state.search.results = data.data.recipes.map((rec)=>{
             return {
                 id: rec.id,
@@ -2867,7 +2866,7 @@ class recipeview extends (0, _viewDefault.default) {
         this._parentElement.addEventListener("click", function(e) {
             const btn = e.target.closest(".btn--update-servings");
             if (!btn) return;
-            console.log(btn);
+            //console.log(btn);
             const updateTo = +btn.dataset.updateTo;
             if (updateTo > 0) handler(updateTo);
         });
