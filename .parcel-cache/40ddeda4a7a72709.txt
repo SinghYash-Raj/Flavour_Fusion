@@ -1,4 +1,4 @@
-9649
+9655
 80C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\dotenv-expand\lib133359967669928205 1
 119C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\definition-syntax\walk.js133359967710060971 0
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\cjs\index.cjs133359967684577720 0
@@ -8,7 +8,7 @@
 87C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\uid.js133359967806461994 0
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\instance\reverse.js133359967782504028 0
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\engine-is-deno.js133359967720287493 0
-67C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\package-lock.json133381122218086204 0
+67C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\package-lock.json133381352090096349 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\reflect\get.js133359967751971664 0
 72C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\path-type133359967667245269 1
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\entities\lib\maps\legacy.json133359967677441433 0
@@ -23,11 +23,11 @@
 96C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\entities\lib\encode-trie.d.ts.map133359967681541761 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\fontsize.js133359967747380257 0
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\json5\lib\parse.js133359967671537714 0
-80C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@msgpackr-extract133381122217282899 1
+80C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@msgpackr-extract133381352088583740 1
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\tokenizer\utils.js133359967710379567 0
 73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\.bin\json5133359967814497383 0
 89C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\mdn-data\css\syntaxes.json133359967684320857 0
-54C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist133381130180587914 1
+54C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist133381356480136782 1
 118C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\document-scrollingelement.js133359967711809814 0
 85C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\domhandler\lib\node.js133359967665415992 0
 66C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\src\js\helper.js133380360235097805 0
@@ -115,7 +115,7 @@
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\reflect\apply.js133359967694316019 0
 90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\export.js133359967741423676 0
 95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\es.array.with.js133359967723344544 0
-62C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules133381122217272927 1
+62C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules133381352088508573 1
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\type-fest\ts41\kebab-case.d.ts133359967681919102 0
 115C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\_\_assert_this_initialized\package.json133359967711257837 0
 106C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\proposals\string-left-right-trim.js133359967792800868 0
@@ -142,7 +142,7 @@
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\promise\index.js133359967760194452 0
 95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\string\split.js133359967791512406 0
 129C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax133359967702355364 1
-62C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\package.json133381131743047746 0
+62C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\package.json133381352088698749 0
 128C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\index.js133359967681177059 0
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\lmdb\node_modules\msgpackr\struct.js133359967681986529 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\math\log2.js133359967768516389 0
@@ -237,7 +237,7 @@
 102C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\htmlnano\lib\modules\removeUnusedCss.js133359967685829356 0
 82C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\yallist\iterator.js133359967662951366 0
 102C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\reflect\delete-property.js133359967717546485 0
-62C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\src\js\views133375441324102975 1
+62C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\src\js\views133381353261630712 1
 106C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\transformer-svg\src\dependencies.js133359967665482382 0
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\msgpackr\dist\index.min.js.map133359967688959022 0
 72C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\src\sass\_preview.scss133334897854107568 0
@@ -320,7 +320,7 @@
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\regexp\match.js133359967771138714 0
 102C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\_\_interop_require_default133359967714498519 1
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\string\virtual\substr.js133359967794173579 0
-76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\src\js\views\RecipeView.js133380397873096322 0
+76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\src\js\views\RecipeView.js133381356476638189 0
 74C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\glob-parent133359967667333175 1
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\promise\finally.js133359967743225631 0
 111C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\mdn-data\css\units.schema.json133359967686007033 0
@@ -347,7 +347,7 @@
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\node-releases\data133359967667245269 1
 109C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\css-motion-paths.js133359967706860475 0
 113C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\parser\sequence.cjs133359967699387686 0
-81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\.package-lock.json133381122218475463 0
+81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\.package-lock.json133381352090973307 0
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.set.filter.js133359967738750313 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\cosmiconfig\dist\index.js.map133359967685592230 0
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\reflect\own-keys.js133359967773945933 0
@@ -366,7 +366,7 @@
 91C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\actual\math\clz32.js133359967709491895 0
 69C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@lezer133359967638714943 1
 116C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133359967728962394 0
-68C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@lmdb133381122217292897 1
+68C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@lmdb133381352088606655 1
 72C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@mischnic133359967638136160 1
 90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\actual\array-buffer133359967800746735 1
 84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\lib\clean\Raw.js133359967697429787 0
@@ -375,7 +375,7 @@
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\esm\_iterable_to_array.js133359967706941291 0
 114C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\index.d.ts.map133359967691903073 0
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\brotli.js133359967696651517 0
-70C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel133381122217282899 1
+70C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel133381352088558674 1
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\svgo\plugins\removeScriptElement.js133359967692006204 0
 115C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\_\_interop_require_default\package.json133359967714498519 0
 88C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\reporter-cli\test133359967675262443 1
@@ -389,7 +389,7 @@
 108C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\async-iterator-iteration.js133359967702320565 0
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\picomatch\index.js133359967665033159 0
 71C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\lib133359967698851023 1
-67C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc133381122217282899 1
+67C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc133381352088548637 1
 100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\weak-map-helpers.js133359967811133215 0
 107C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\instance\group-by-to-map.js133359967752348761 0
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\typed-array\every.js133359967741268322 0
@@ -568,6 +568,8 @@
 89C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\htmlnano\docs\netlify.toml133359967695802574 0
 77C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\weak-lru-cache133359967674562947 1
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\array\every.js133359967740750563 0
+69C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\fracty133381346896222845 1
+117C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\Function.js133359967705310878 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\strike.js133359967792516194 0
 71C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\get-port133359967667279455 1
 108C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\urlsearchparams.js133359967732495475 0
@@ -952,9 +954,9 @@
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs133359967701423594 1
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\cjs\_async_iterator.cjs133359967675489859 0
 100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\array\virtual\unshift.js133359967808920121 0
+81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\src133359967668260596 1
 97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\source-map-js\lib\binary-search.js133359967668706438 0
 96C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\ime.js133359967717433159 0
-81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\src133359967668260596 1
 84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\xxhash-wasm\README.md133359967675356006 0
 87C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\nth-check\lib\compile.js133359967663675128 0
 107C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\lmdb\node_modules\node-addon-api\common.gypi133359967664612561 0
@@ -1206,6 +1208,7 @@
 111C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\abortcontroller-polyfill\dist\abortcontroller.js133359967669596708 0
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\type-fest\source\asyncify.d.ts133359967669040706 0
 114C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133359967683702217 0
+84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\fracty\fracty.test.js133381346896197713 0
 103C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\type-fest\source\conditional-except.d.ts133359967675131935 0
 76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\msgpackr\dist133359967691559326 1
 105C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.json.is-raw-json.js133359967736878397 0
@@ -1857,6 +1860,8 @@
 95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\array\virtual\find.js133359967744884006 0
 75C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\sass\sass.js133359967694469888 0
 87C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\semver\internal\debug.js133359967676572958 0
+79C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\fracty\readme.md133381346896236018 0
+108C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\input-minlength.js133359967718324025 0
 95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\semver\internal\parse-options.js133359967686417734 0
 95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\object\proto.js133359967776115935 0
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\array-to-reversed.js133359967699761389 0
@@ -2032,8 +2037,6 @@
 103C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\actual\number\is-safe-integer.js133359967763137227 0
 89C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\web.url.js133359967812024921 0
 82C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\readdirp\index.d.ts133359967668101095 0
-100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual\anchor.js133359967692299629 0
-90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\instance\flat.js133359967746546469 0
 116C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\media.js133359967707317829 0
 119C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133359967675385979 0
 105C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.math.deg-per-rad.js133359967737670551 0
@@ -2234,6 +2237,7 @@
 120C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\node-releases\data\release-schedule\release-schedule.json133359967668544791 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\map\merge.js133359967771593855 0
 87C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\picocolors\picocolors.js133359967664694629 0
+79C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\fracty\fracty.js133381346896163350 0
 82C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\picocolors\types.ts133359967671354019 0
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\typed-array\index-of.js133359967755674676 0
 104C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\src\_object_spread_props.mjs133359967719861942 0
@@ -2839,8 +2843,6 @@
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\web.url.can-parse.js133359967811945594 0
 112C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\runtime-js\lib\helpers\bundle-manifest.js133359967666239865 0
 118C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts.map133359967691681175 0
-97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\page.js133359967708472552 0
-98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\object\from-entries.js133359967748741467 0
 106C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.array.to-reversed.js133359967733926882 0
 126C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133359967703961688 0
 86C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\js-yaml\dist\js-yaml.js133359967680421404 0
@@ -3308,6 +3310,12 @@
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\error\to-string.js133359967799753899 0
 72C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\logo.726d37a8.png133345196835107345 0
 84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\get-port\package.json133359967661056591 0
+100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\tokenizer\TokenStream.js133359967709873080 0
+97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\calc.js133359967698123652 0
+105C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\console-time.js133359967700686836 0
+95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\date\to-string.js133359967800123238 0
+84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\fracty\.gitattributes133381346896106950 0
+82C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\fracty\package.json133381346896060590 0
 79C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\domutils\LICENSE133359967661156736 0
 84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\fractional\index.html133359967670432973 0
 111C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133359967692783401 0
@@ -3435,10 +3443,6 @@
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\global-this.js133359967752162827 0
 84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\index.js133359967706860475 0
 75C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\domutils\lib133359967684741352 1
-109C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\user-select-none.js133359967732907123 0
-102C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.iterator.some.js133359967736751448 0
-111C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\keyboardevent-code.js133359967719751880 0
-97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\nest.js133359967708205723 0
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\boolbase\README.md133359967663435637 0
 86C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\domutils\lib\feeds.d.ts133359967681818707 0
 84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\domutils\lib\feeds.js133359967663708044 0
@@ -3559,7 +3563,7 @@
 97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\mdn-data\LICENSE133359967661781816 0
 90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\error\index.js133359967758487370 0
 96C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\src\_export_star.mjs133359967719005816 0
-77C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.f7626f62.css.map133380385147143807 0
+77C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.f7626f62.css.map133381355964435468 0
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\packager-js\lib\DevPackager.js133359967671250605 0
 90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\README.md133359967813395313 0
 86C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\version.js133359967710562143 0
@@ -3659,7 +3663,6 @@
 113C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js.map133359967686088042 0
 119C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\Combinator.js133359967703124219 0
 118C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js133359967705054447 0
-117C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\Function.js133359967705310878 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\regions\DK.js133359967711402234 0
 108C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\lexer\index.js133359967706350729 0
 86C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\actual\weak-set133359967756504236 1
@@ -3728,9 +3731,6 @@
 114C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\lexer\match-graph.js133359967707157104 0
 96C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\instance\group-by.js133359967752644879 0
 112C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\lexer\structure.js133359967709046289 0
-92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\parser\create.js133359967704390740 0
-110C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\esm\_initializer_warning_helper.js133359967706172413 0
-90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\lib\types.js.map133359967694863374 0
 132C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts133359967687497750 0
 82C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\braces\CHANGELOG.md133359967663415775 0
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\function-apply.js133359967749637085 0
@@ -3907,7 +3907,7 @@
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\cache\src\LMDBCache.js133359967676457144 0
 103C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\lib\replace\property\font-weight.js133359967695973589 0
 96C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\lib\replace\property\font.js133359967696108882 0
-76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.e37f48ea.js.map133381130180561221 0
+76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.e37f48ea.js.map133381356480085621 0
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\lib\replace\atrule\keyframes.js133359967696880135 0
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\string\virtual\at.js133359967705286084 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\csso\lib\clean\Declaration.js133359967695670907 0
@@ -4014,7 +4014,7 @@
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-what\lib\commonjs\types.d.ts.map133359967681035694 0
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\replace.js133359967781515613 0
 75C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\cjs133359967702115304 1
-65C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.html133381130180423498 0
+65C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.html133381355965501788 0
 75C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib133359967710552084 1
 84C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\index.js133359967758636863 0
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\README.md133359967710955190 0
@@ -4056,10 +4056,6 @@
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\utils\src\isDirectoryInside.js133359967692938840 0
 100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\get-iterator-method.js133359967750330544 0
 105C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133359967708397772 0
-100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\tokenizer\TokenStream.js133359967709873080 0
-97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\calc.js133359967698123652 0
-105C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\console-time.js133359967700686836 0
-95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\date\to-string.js133359967800123238 0
 105C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.weak-map.emplace.js133359967740378094 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\tokenizer\types.js133359967709978937 0
 91C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\internals\classof.js133359967709343645 0
@@ -4115,7 +4111,16 @@
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\index.js133359967706973331 0
 114C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\lib\_class_extract_field_descriptor.js133359967701883486 0
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\media.js133359967707802884 0
+109C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\user-select-none.js133359967732907123 0
+102C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.iterator.some.js133359967736751448 0
+111C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\keyboardevent-code.js133359967719751880 0
+97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\nest.js133359967708205723 0
+97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\page.js133359967708472552 0
+98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\object\from-entries.js133359967748741467 0
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\supports.js133359967709585609 0
+92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\parser\create.js133359967704390740 0
+110C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\esm\_initializer_warning_helper.js133359967706172413 0
+90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\lib\types.js.map133359967694863374 0
 91C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\parser\index.js133359967706941291 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\parser\sequence.js133359967709366512 0
 97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-tree\lib\parser\SyntaxError.js133359967709697567 0
@@ -4492,8 +4497,8 @@
 108C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133359967663948116 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\regions\VC.js133359967733449694 0
 109C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\css-first-letter.js133359967704816932 0
-90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual133359967805626548 1
 136C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.js.map133359967686745846 0
+90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual133359967805626548 1
 134C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.d.ts.map133359967688411918 0
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133359967681889201 0
 100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\modules\esnext.global-this.js133359967735740036 0
@@ -4862,7 +4867,7 @@
 104C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\geolocation.js133359967715426821 0
 86C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\fs\src\index.js133359967671934534 0
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\typed-array\filter.js133359967743134790 0
-73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\icons.dfd7a6db.svg133380385146847818 0
+73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\icons.dfd7a6db.svg133381355965511800 0
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\array\group-to-map.js133359967752822439 0
 108C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\stable\typed-array\find-last-index.js133359967744265907 0
 102C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\instance\find-index.js133359967743491162 0
@@ -6029,10 +6034,12 @@
 90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\trim.js133359967805615423 0
 97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\instance\pad-start.js133359967774672631 0
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\actual\string\trim-right.js133359967803675915 0
+100C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual\anchor.js133359967692299629 0
+90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\instance\flat.js133359967746546469 0
 99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\set\is-subset-of.js133359967763403742 0
 96C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual\at.js133359967704837659 0
-99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual\blink.js133359967707672932 0
 85C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\LICENSE133359967661520580 0
+99C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual\blink.js133359967707672932 0
 98C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual\bold.js133359967708216166 0
 103C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\full\string\virtual\ends-with.js133359967719926421 0
 103C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\features\symbol\is-well-known.js133359967764076500 0
@@ -7064,7 +7071,7 @@
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\typed-array\join.js133359967766288696 0
 86C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\math\log2.js133359967768496450 0
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\typed-array\keys.js133359967766970819 0
-73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.f7626f62.css133380385146897882 0
+73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.f7626f62.css133381355964354469 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\typed-array\map.js133359967769626853 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\regions\LK.js133359967721029417 0
 91C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\core-js\es\typed-array\of.js133359967773543909 0
@@ -8071,7 +8078,6 @@
 104C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\input-color.js133359967717926680 0
 110C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\input-file-accept.js133359967718119386 0
 112C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\input-file-multiple.js133359967718209019 0
-108C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\input-minlength.js133359967718324025 0
 105C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\input-number.js133359967718358120 0
 112C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\package-manager\src\NodePackageManager.js133359967684404525 0
 110C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\caniuse-lite\data\features\input-placeholder.js133359967718427892 0
@@ -8450,7 +8456,6 @@
 110C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\resolver-default\src\DefaultResolver.js133359967665472419 0
 111C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133359967700578848 0
 118C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\esm\_class_apply_descriptor_destructure.js133359967700748592 0
-90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\package.json133359967666915040 0
 89C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\graph\lib\types.js133359967681045645 0
 113C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\esm\_class_apply_descriptor_update.js133359967701250208 0
 127C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js133359967701692944 0
@@ -8604,7 +8609,6 @@
 101C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\watcher-win32-x64\watcher.node133359967676676221 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\watcher\index.js.flow133359967663553840 0
 86C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\watcher\LICENSE133359967661373760 0
-81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\lib133359967663500087 1
 91C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\watcher\package.json133359967666229857 0
 89C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\utils\package.json133359967697396371 0
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\utils\test133359967696978830 1
@@ -8773,6 +8777,8 @@
 93C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\profiler\src\Tracer.js133359967674660098 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\profiler\lib\index.js133359967663828512 0
 92C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\profiler\lib\types.js133359967676403281 0
+81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\lib133359967663500087 1
+90C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\package.json133359967666915040 0
 96C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\src\PluginAPI.d.ts133359967668846349 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\src\PluginAPI.js133359967665495773 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\plugin\lib\PluginAPI.js133359967663848469 0
@@ -9135,7 +9141,7 @@
 131C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.json133359967681953875 0
 130C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json133359967683269847 0
 137C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.schema.json133359967683689692 0
-73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\icons.21bad73c.svg133380385146887877 0
+73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\icons.21bad73c.svg133381355965501788 0
 136C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.schema.json133359967684564431 0
 126C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\types.json133359967684963709 0
 133C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\types.schema.json133359967685316694 0
@@ -9340,7 +9346,7 @@
 80C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\graph\src133359967681464008 1
 81C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\graph\test133359967677986841 1
 102C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\graph\test\ContentGraph.test.js133359967675730786 0
-72C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.e37f48ea.js133381130180456979 0
+72C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.e37f48ea.js133381356479970976 0
 95C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\graph\test\Graph.test.js133359967678285263 0
 124C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133359967664185169 0
 97C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\@parcel\graph\src\AdjacencyList.js133359967670169054 0
@@ -9636,7 +9642,7 @@
 76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\.bin\svgo.ps1133359967814507377 0
 94C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\node_modules\.bin\update-browserslist-db.cmd133359967814537292 0
 77C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\estd 2023.b27b5463.png133345096033768223 0
-75C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\favicon.8b2f57bf.png133380385147243823 0
+75C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\favicon.8b2f57bf.png133381355963575630 0
 75C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\favicon.f98b6865.png133381059981056979 0
 73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\icons.c14567a0.svg133381060002072230 0
 76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.13890147.js.map133381060005872895 0
@@ -9646,5 +9652,5 @@
 76C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.926b6765.js.map133381060006607110 0
 73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.bb84a947.css133381060005392938 0
 77C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\index.bb84a947.css.map133381060006009044 0
-73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\logo1.c640ba1a.png133380385147256922 0
+73C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\logo1.c640ba1a.png133381355963407223 0
 82C:\Users\DELL\OneDrive\Desktop\18-forkify\starter\dist\starter.3464ddca.js.10524.w133334913580438647 0
