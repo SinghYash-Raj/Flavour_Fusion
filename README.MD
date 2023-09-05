@@ -10,8 +10,7 @@ You can access the live demo of Forkify [here](https://flavour-fuusion.netlify.a
 
 - **Recipe Search:** Search for a wide range of recipes using keywords.
 - **Recipe Details:** View detailed information about a selected recipe, including ingredients and preparation steps.
-- **Shopping List:** Add ingredients from recipes to a shopping list for easy reference.
-- **Favorites:** Save your favorite recipes for quick access.
+- **Bookmarks:** Save your favorite recipes for quick access.
 - **Responsive Design:** Enjoy the app on various devices, as it's designed to work on both desktop and mobile screens.
 
 ## Technologies Used
@@ -20,7 +19,6 @@ You can access the live demo of Forkify [here](https://flavour-fuusion.netlify.a
 - **Webpack:** Used to bundle the JavaScript modules and assets.
 - **Babel:** Transpiles modern JavaScript code to ES5 for compatibility with older browsers.
 - **Food2Fork API:** Provides access to a vast collection of recipes.
-- **Heroku:** Used for hosting the app via an Express server.
 - **Netlify:** Hosts the frontend of the app and provides continuous integration.
 
 ## Installation and Usage
@@ -69,9 +67,6 @@ Contributions to Forkify are welcome! If you'd like to contribute, please follow
 4. Push your changes to your fork.
 5. Submit a pull request to the original repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
